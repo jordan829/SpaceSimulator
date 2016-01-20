@@ -1,0 +1,9 @@
+﻿Build started 1/20/2016 2:39:27 AM.
+     1>Project "C:\Users\Jordan\Documents\Dev Stuff\Github\CSE 167\CSE_167_FinalProject_Space\externals\Simple OpenGL Image Library\projects\VC9\SOIL.vcxproj" on node 2 (Build target(s)).
+     1>Lib:
+         SOIL.vcxproj -> C:\Users\Jordan\Documents\Dev Stuff\Github\CSE 167\CSE_167_FinalProject_Space\Release\SOIL.lib
+     1>Done Building Project "C:\Users\Jordan\Documents\Dev Stuff\Github\CSE 167\CSE_167_FinalProject_Space\externals\Simple OpenGL Image Library\projects\VC9\SOIL.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.03
